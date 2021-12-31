@@ -1,0 +1,10 @@
+
+ create table   student   (
+         student_id   integer not null auto_increment,
+          first_name   varchar(255),
+          last_name   varchar(255),
+          year   integer,
+        primary key (  student_id  )
+    )
+
+
