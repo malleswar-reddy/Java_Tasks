@@ -1,0 +1,8 @@
+
+CREATE TABLE PRODUCTS(
+     pid  INT(3) PRIMARY KEY,
+     pname VARCHAR(20),
+	 price INT(8)	 
+  );
+
+select * from PRODUCTS;
